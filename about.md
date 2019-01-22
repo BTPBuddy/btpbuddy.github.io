@@ -12,6 +12,20 @@ permalink: /about/
 
 ### Ertan Ozaydin
 
+Hello world. Ertan OZAYDIN here, actuellement en MM5 à HETIC, je me suis orienté dans l'UX Design suite au divers expériences que j'ai pu avoir tout le monde de ma vie étudiantes.
+
+Je suis ici sur ce projet sur la partie dev-front & sur l'UX de notre plateforme.
+
+Background : 
+
+    - Epitech Paris -> 2 ans -> Dev logiciel
+    - Etna -> 1 an -> Dev web
+    - Hetic -> 2 ans (en cours) -> UX design / Web Marketing
+
+Check out my Github : [https://github.com/Ertoun](https://github.com/Ertoun)
+
+Check out my GitLab : [https://gitlab.com/Ertoun] (https://gitlab.com/Ertoun)
+
 -
 
 ### Mickael Privat
