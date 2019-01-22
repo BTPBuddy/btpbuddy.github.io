@@ -13,7 +13,7 @@ Bonjour, tout le monde. Je m'appelle David O'Neill et je fais partie du programm
 Site: [https://doneill612.github.io](https://doneill612.github.io)
 
 
-### Ertan Ozaydin
+### <b> Ertan Ozaydin </b>
 
 Hello world. Ertan OZAYDIN here, actuellement en MM5 à HETIC, je me suis orienté dans l'UX Design suite au divers expériences que j'ai pu avoir tout le monde de ma vie étudiantes.
 
@@ -25,9 +25,9 @@ Background :
 - Etna &rarr; 1 an &rarr; Dev web
 - Hetic &rarr; 2 ans (en cours) &rarr; UX design / Web Marketing
 
-Check out my [Github]  (https://github.com/Ertoun)
+Check out my <a href="https://github.com/Ertoun" target="_blank">Github</a>
 
-Check out my [GitLab]  (https://gitlab.com/Ertoun)
+Check out my <a href="https://github.com/Ertoun" target="_blank">GitLab</a>
 
 
 
