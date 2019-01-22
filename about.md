@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Morgane Le-Fur 
 
--
+
 
 ### Ertan Ozaydin
 
@@ -26,15 +26,15 @@ Check out my Github : [https://github.com/Ertoun](https://github.com/Ertoun)
 
 Check out my GitLab : [https://gitlab.com/Ertoun](https://gitlab.com/Ertoun)
 
--
+
 
 ### Mickael Privat
 
--
+
 
 ### Raphaël de Dumast
 
--
+
 
 ### David O'Neill
 
