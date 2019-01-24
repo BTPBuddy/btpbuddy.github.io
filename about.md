@@ -33,7 +33,17 @@ Check out my <a href="https://github.com/Ertoun" target="_blank">GitLab</a>
 
 ### Mickael Privat
 
+Je suis étudiant en 5 ème année de Marketing UX à HETIC Paris, spécialisé en CRM. Je
+possède un bagage segmenté en deux parties :
 
+1. Marketing 
+2. UX (centré expérience utilisateur).
+
+Compétences clés :
+- Salesforce
+- Pardot
+- Marketo 
+- Outils variés de marketing automation
 
 ### Raphaël de Dumast
 
