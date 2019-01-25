@@ -52,6 +52,7 @@ Actuellement étudiant en Marketing Digital à HETIC. J'ai rejoint cette formati
 Je suis spécialisé en acquisition payante. 
 
 Check out my <a href="https://www.linkedin.com/in/raphaël-de-dumast-a0a17313b" target="_blank">Linkedin</a>
+
 Check out my <a href="https://twitter.com/rddumast" target="_blank">Twitter</a>
 
 ### Morgane Le-Fur 
