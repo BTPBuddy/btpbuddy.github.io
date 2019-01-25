@@ -47,6 +47,12 @@ Compétences clés :
 
 ### Raphaël de Dumast
 
+Actuellement étudiant en Marketing Digital à HETIC. J'ai rejoint cette formation après un Master 1 de Droit des Affaires. C'est ma passion pour l'entrepreunariat et le digital qui m'a poussé à me reconvertir suite à mes études de droit. 
+
+Je suis spécialisé en acquisition payante. 
+
+Check out my <a href="https://www.linkedin.com/in/raphaël-de-dumast-a0a17313b" target="_blank">Linkedin</a>
+Check out my <a href="https://twitter.com/rddumast" target="_blank">Twitter</a>
 
 ### Morgane Le-Fur 
 
