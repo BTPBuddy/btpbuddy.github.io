@@ -1,5 +1,9 @@
-# Entretien avec Henri de Dumast
-
+---
+layout: post
+title: Entretien avec Henri de Dumast
+categories: [blog, work]
+tags: [entretien]
+---
 
 
 ## Intervenants : 
