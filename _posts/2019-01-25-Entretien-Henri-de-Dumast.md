@@ -12,7 +12,7 @@ tags: [entretien]
 
 ## But de l'entretien 
 
-Préciser le problèmes et notre périmètre d'action. 
+Préciser le problème et notre périmètre d'action. 
 
 <!-- readmore -->
 
@@ -20,14 +20,14 @@ Préciser le problèmes et notre périmètre d'action.
 ---
 **Constat**
 
-Sur 5 contrat réalisés par les prestataires de travaux, 1 contrat est sujet à conflit. 
+Sur 5 contrats réalisés par les prestataires de travaux, 1 contrat est sujet à conflit. 
 
 Ces conflits peuvent être de trois types : 
 - Délais nons respectés. 
 - Livraison non conforme
 - Mal façon
 
-Lors de ces conflits les petits acteurs se retrouvent souvent face à de grandes entreprises de donneurs d'ordres. Leur coeur de métier étant la réalisation de travaux ils ont souvent du mal à produire les documents qui garantissent qu'ils ont respecté leurs engagements conformément aux instruction du donneur d'ordre. 
+Lors de ces conflits les petits acteurs se retrouvent souvent face à de grandes entreprises de donneurs d'ordres. Leur coeur de métier étant la réalisation de travaux ils ont souvent du mal à conserver puis produire les documents qui garantissent qu'ils ont respecté leurs engagements conformément aux instruction du donneur d'ordre. Dans un projet de construction ou de rénovation, entre les deux partie, la parole fait (encore) foi et l’entrepreneur n’a pas les capacités contractuelles à prouver ces dires.
 
 
 **Besoin principal** 
