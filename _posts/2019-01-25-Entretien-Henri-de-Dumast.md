@@ -14,6 +14,8 @@ tags: [entretien]
 
 Préciser le problèmes et notre périmètre d'action. 
 
+<!-- readmore -->
+
 ## Compte rendu de l'entretien
 ---
 **Constat**
@@ -43,14 +45,3 @@ Il existe à priori un problème pour ces entreprises du BTP. Ce problème à de
 **Next Step** 
 
 Confirmer le problème en multipliant les interview avec des acteurs du BTP. 
-
-
-
-
-
-
-
-
-
-
-
