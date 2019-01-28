@@ -27,7 +27,7 @@ Ces conflits peuvent être de trois types :
 - Livraison non conforme
 - Mal façon
 
-Lors de ces conflits les petits acteurs se retrouvent souvent face à de grandes entreprises de donneurs d'ordres. Leur coeur de métier étant la réalisation de travaux ils ont souvent du mal à conserver puis produire les documents qui garantissent qu'ils ont respecté leurs engagements conformément aux instruction du donneur d'ordre. Dans un projet de construction ou de rénovation, entre les deux partie, la parole fait (encore) foi et l’entrepreneur n’a pas les capacités contractuelles à prouver ces dires.
+Lors de ces conflits les petits acteurs se retrouvent souvent face à de grandes entreprises de donneurs d'ordres. Leur coeur de métier étant la réalisation de travaux ils ont souvent du mal à conserver puis produire les documents qui garantissent qu'ils ont respecté leurs engagements conformément aux instructions du donneur d'ordre. Dans un projet de construction ou de rénovation, entre les deux parties, la parole fait (encore) foi et l’entrepreneur n’a pas les capacités contractuelles à prouver ces dires.
 
 
 **Besoin principal** 
@@ -44,4 +44,4 @@ Il existe à priori un problème pour ces entreprises du BTP. Ce problème à de
 
 **Next Step** 
 
-Confirmer le problème en multipliant les interview avec des acteurs du BTP. 
+Confirmer le problème en multipliant les interviews avec des acteurs du BTP. 
