@@ -10,6 +10,8 @@ La soutenance de vendredi dernier nous à permis de savoir vers quelles voies no
 <!-- readmore -->
 
 
-## Timeline actuelle :
+### Timeline actuelle :
 
-==Naissance du projet== : 18 Janvier 201
+![Calendrier](https://imgur.com/v88m9JG)
+
+Naissance du projet : 18 Janvier 2019
