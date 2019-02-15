@@ -57,8 +57,8 @@ Check out my <a href="https://twitter.com/rddumast" target="_blank">Twitter</a>
 
 ### Morgane Le-Fur 
 
-
-
+Morgane Le Fur étudiante en 5 ème année de Marketing Ux à Hétic Paris, spécialisé en Marketing et Qualité client.
+Appétence pour la création de projet adcenter dans une optique durable. Les compétences transversales sont mises en exerce dans la veille de marché, l'innovation et la stratégie.
 
 
 ### Contact us
