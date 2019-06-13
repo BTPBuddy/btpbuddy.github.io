@@ -17,7 +17,7 @@ Ce chiffre significatif touche beaucoup plus les petites structures qui n’ont 
 Souvent, ce sont les particuliers qui gagnent. La cause : dans un projet de construction ou de rénovation, entre les deux partie, la parole fait (encore) foi et l’entrepreneur n’a pas les capacités contractuelles à prouver ces dires.
 Le BTP est un secteur d’activité produisant une masse de documents mais 4 ou 5 suffisent pour prouver la bonne gestion du projet.
 
-##Un besoin métier : la gestion d’archive
+## Un besoin métier : la gestion d’archive
 
 Si les grosses structures, comme Bouygues Télécom Construction ont amorcé ces problématiques depuis bien longtemps, les micro structures sont encore à la traîne.
 
