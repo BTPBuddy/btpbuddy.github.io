@@ -11,8 +11,6 @@ Ces dernières semaines nous avons eu la possibilité de réfléchir sur notre m
 2. l’analyse de notre concurrence 
 3. le dégagement de la valeur ajouté de notre solution BTP Buddy
 
-![Taille de marché](..\images\taille-de-marche.png/ "Taille de marché")
-
 <!-- readmore -->
 
 
