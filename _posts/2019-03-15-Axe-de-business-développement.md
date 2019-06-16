@@ -31,7 +31,7 @@ Désireux de répondre et d’apporter une aide concrète aux entreprises du BTP
 
 Le marché des logiciels (destination BtoB & BtoC confondu) est en forte hausse et hyper concurrentiel. L’étude IDC France informe que le marché va dégager, entre 2017 à 2021, 56 milliard d’euro de chiffre d’affaire, et ce rien qu’en France. Bonne pioche ! Car la demande, en hausse constante, est principalement orienté autour des logiciels à destination des entreprises, avec une hausse de 22% par an.
 
-![Taille de marché](..\images\taille-de-marche.png/ "Taille de marché")
+![Taille de marché](https://i.imgsafe.org/6a/6a85c51061.png "Taille de marché")
 
 
 Dans l’affinement du marché des solutions numériques BtoB de BTP Buddy et en lien avec ces fonctionnalités socles (GDR et ERP), nous avons trouver, dans l’étude Global Market Insight 2018 france, le pourcentage de demande :
@@ -43,7 +43,7 @@ Ces chiffres nous rassure dans la bonne direction et dans notre positionnement d
 
 L’environnement de marché connu, nous avons comparé les données de marché dans une méthodologie : Océan Rouge VS Océan bleu.
 
-![Océan rouge vs Océan bleu](..\images\rougevsbleu.png/ "Océan rouge vs Océan bleu")
+![Océan rouge vs Océan bleu](https://i.imgsafe.org/6a/6a85ac20ca.png "Océan rouge vs Océan bleu")
 
 *Nous avons le vague bleu libre pour notre solution BTP Buddy.*
 
@@ -61,7 +61,7 @@ Afin de dégager un aperçu des fonctionnalités de BTP Buddy et d’avoir une v
 
 Comme ces deux concurrents ne jouent pas dans le même marché que le nôtre au vu de notre positionnement d’entre deux, nous avons sélectionné des fonctionnalités se retrouvant dans les deux solutions pour mesurer et trouver notre espace stratégique : 
 
-![Canvas stratégique](..\images\canvas-strategique.png/ "Canvas stratégique")
+![Canvas stratégique](https://i.imgsafe.org/6a/6a837d2e19.png "Canvas stratégique")
 
 L’observation de ce graphique nous identique que nous nous positionnons dans un l’océan rouge des solutions existantes car les courbes se ressemblent et se talonné par moment (paramètres fonctionnels : mobilité et accès hors ligne & suivi de la conformité par exemple). Malgrés notre espace d’innovation de valeur, il a fallu renforcer certains aspects, en atténuer d’autres afin d’augmenter notre différenciation concurrentiel et apporter du corps et de la détermination dans la solution BTP Buddy tant au niveau de la forme que dans le fond.
 
@@ -71,7 +71,7 @@ L’observation de ce graphique nous identique que nous nous positionnons dans u
 
 Nous avons donc réfléchie, grâce à la méthodologie ERAC, les fonctionnalités/paramètres à exclure, renforcer, atténuer et créer pour la solution.
 
-![ERAC](..\images\ERAC.png/ "ERAC")
+![ERAC](https://i.imgsafe.org/6a/6a85ab1ceb.png "ERAC")
 
 En conclusion, notre potentiel de marché est fort et nous naviguons entre des eaux troublent de part la forte concurrence existante et de la spécificité que reflète l’activité du BTP.
 Notre carte d’intempérie est dorénavant dessiné, maintenant nous nous mettons les voiles pour quitter l’Océan Rouge et nous rendre dans l’Océan Bleu. Comment ? En nous rendant dans les lieux obscures de la data juridique pour cibler les entreprises qui ont eu, malheureusement, un problème de navigation afin de savoir et de leurs proposer notre service BTP Buddy.

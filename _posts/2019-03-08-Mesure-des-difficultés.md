@@ -4,7 +4,7 @@ title: Mesure des difficultés juridiques des entrepreneurs du BTP.
 categories: [blog, work]
 tags: [projet, followup]
 --- 
-## Mauvaise nouvelle
+## État des lieux
 
 Après avoir réfléchie sur l’activité et la solution que nous souhaitons mettre en place. Notre team s'oriente sur la connaissance et la palpation des problèmes des entrepreneurs du BTP. Pour se faire nous rentrons en phase 2 : la prise de conscience de nos hypothèses jusqu’alors mené.
 
@@ -12,7 +12,6 @@ Après avoir réfléchie sur l’activité et la solution que nous souhaitons me
 
 ---
 
-## Mesure des difficultés juridiques des entrepreneurs du BTP.
 
 Ce secteur extrêmement vaste et regroupant différents corps de métiers, **nous avons présélectionné sur un fichier excel entre 10 et 15 artisans ayant des spécialisations différentes pour avoir un panel** aussi représentatifs que possibles sur l’archivage d’un projet de construction ou de rénovation.
 
