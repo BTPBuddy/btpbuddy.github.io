@@ -33,7 +33,7 @@ L'interaction avec c’est révélé compliqué dans le sens où :
 - les personnes qui ont été coopératives dans la structure ont été les secrétaires pour les entreprise à partir de 5 salariés et pour les micro-entrepreneurs, il est difficiles de les joindre.
 
 Malgrés tout, nous avons réussi à avoir un retour sur leurs problèmes juridiques et une notion de leurs appétences digitales. (silde prez #1)
-Afin de continuer à recevoir de l’information et un retour régulier sur le niveau de dématérialisation du secteur BTP pour permettre la modélisation une juste modélisation de notre business model, nous avons créé plusieurs questionnaires que nous poussons dans les boîtes mail des dirigeants et des acteurs gravitant autour et dans le secteur. Le choix de la segmentation c’est effectué avec les critères suivant : nous nous focalisons sur une taille particulière d’entreprise (entre 1 et 20 salariés*) pouvant travailler à la fois sur du gros et du petit oeuvre. Pour permettre une solution personnalisée par typologie de projet nous orientons notre segmentation par secteur d’activité de l’entreprise soit des contacts sur : 
+Afin de continuer à recevoir de l’information et un retour régulier sur le niveau de dématérialisation du secteur BTP pour permettre la modélisation une juste modélisation de notre business model, nous avons créé plusieurs questionnaires que nous poussons dans les boîtes mail des dirigeants et des acteurs gravitant autour et dans le secteur. Le choix de la segmentation c’est effectué avec les critères suivant : nous nous focalisons sur une taille particulière d’entreprise (entre 1 et 20 salariés²) pouvant travailler à la fois sur du gros et du petit oeuvre. Pour permettre une solution personnalisée par typologie de projet nous orientons notre segmentation par secteur d’activité de l’entreprise soit des contacts sur : 
 - l’aménagement extérieurs
 - matériel et outillage 
 - structure, maçonerie et façade
@@ -45,7 +45,9 @@ Afin de continuer à recevoir de l’information et un retour régulier sur le n
 La partie acquisition de mail s’effectue par nos propres moyens (scrapping annuaires).
 Afin de faciliter cette tâche, nous continuions d’être en contact avec la FFB afin qu’il puisse agir comme facilitateur.
  
+![Automatisation](https://i.imgsafe.org/b4/b4ab35aded.png "Automatisation")
+*Création d’automatisation dans le but de tester la maquette*
 
+² : L’étude de 2019 du prescripteur Batiactu révèle une augmentation de l’ordre de 163.000 micro entrepreneurs dans l’année 2018.
 
-* : L’étude de 2019 du prescripteur Batiactu révèle une augmentation de l’ordre de 163.000 micro entrepreneurs dans l’année 2018.
 *Source : https://www.batiactu.com/edito/acoss-revele-chiffres-micro-entrepreneurs-dans-batiment-55353.php*
