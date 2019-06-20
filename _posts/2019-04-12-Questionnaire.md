@@ -6,9 +6,9 @@ tags: [projet, followup]
 --- 
 # Processus :
 
-- form : 1H de travail par questionnaires / données récupérer sur l’annuaire de la FFB adresse mail + nom de l’entreprise 
-- vision push par la newsletter et par email dédié
-- deux types de questionnaires : 
+- Formulaire : 1H de travail par questionnaires / données récupérer sur l’annuaire de la FFB adresse mail + nom de l’entreprise 
+- Vision push par la newsletter et par email dédié
+- Deux types de questionnaires : 
 	1. sur le besoin d'entrepreneur cibles : tout le monde
 	2. sur l'appétence de notre offre (accompagnement + plateforme) : tout le monde
 
