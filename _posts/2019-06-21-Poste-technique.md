@@ -1,9 +1,10 @@
 ---
 layout: post
-title: BTPBuddy: A Developer's Story
+title: BTPBuddy: "A Developer's Story"
 categories: [blog, dev]
 tags: [projet, dev, developer]
 --- 
+
 This is going to be a longer, and in some ways, more technical post regarding the evolution of the BTPBuddy platform from a developer's point of view.
 
 Posts have been scarce from my end, so I wanted to take the time to introduce the architectural decisions made in building the platform, as well as to talk about certain successes and failures in the development lifecycle over the past several months.
@@ -35,12 +36,13 @@ From this technical refresher we can outline some bare-bones functional requirem
 
 Like most web platforms, we need to establish three (+1) fundamental architecture layers: a database layer (DBL), a data-access or data-abstraction layer (DAL), and a front end. The +1 here is the integration of the DBL and DAL with the AWS cloud.
 
-![arch-overview](https://imgur.com/dgwNaWD)
+![arch-overview](https://i.imgsafe.org/cf/cf0fea5995.png "arch-overview")
 
 ### DBL
 Our database layer is relational, and was built using MySQL.
 
-![dbl-diagram](https://imgur.com/qMtqlVS)
+
+![dbl-diagram](https://i.imgsafe.org/cf/cf0feabb74.png "dbl-diagram")
 
 The diagram above shows the tables used, as well as the relationships between them. Stored procedures were created in order to retrieve, update/add, and remove data from the tables, and followed a unique naming convention for organizational purposes.
 ```
@@ -151,6 +153,10 @@ As you can see, it is still a simple HTML table, but the table is populated in a
 The MVVM (model view view-model) design pattern is implemented in the BTPBuddy website.
 
 ![mvvm](https://cdn-images-1.medium.com/max/1600/1*8KprSpqqPtSuYObjOFPt2g.png)
+
+
+![mvvm](https://i.imgsafe.org/cf/cf0fde35ce.png "mvvm")
+
 
 The model layer in our MVVM implementation is the DAL, and any required view models are defined in the website solution.
 
