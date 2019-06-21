@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BTPBuddy: "A Developer's Story"
+title: "BTPBuddy: "A Developer's Story""
 categories: [blog, dev]
 tags: [projet, dev, developer]
 --- 
