@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: BTPBuddy: A Developer's Story
