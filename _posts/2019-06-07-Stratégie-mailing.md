@@ -37,6 +37,4 @@ Pour finir :
 Nous effectuerons un call pour obtenir leur avis sur notre solution et avoir quelques informations sur leur problème rencontré.
 Actuellement nous sommes entrain d’obtenir une nouvelle manière d’obtenir des bases de données pour avoir de plus de résultats qualifiés.
 
-https://i.imgsafe.org/cd/cd93f62eb4.png
-
 ![Taux d'ouverture de la campagne](https://i.imgsafe.org/cd/cd93f62eb4.png "Taux d'ouverture de la campagne")
