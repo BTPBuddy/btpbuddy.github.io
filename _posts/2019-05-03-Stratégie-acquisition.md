@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOTRE STRATÉGIE D’ACQUISITION	
+title: Notre stratégie d'acquisition	
 categories: [blog, work, marketing]
 tags: [projet, followup, acquisition]
 --- 
